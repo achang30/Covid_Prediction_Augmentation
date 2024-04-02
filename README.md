@@ -34,6 +34,8 @@ trained on scaled data. I will compare the models using various metrics includin
 accuracy, AUROC, precision, and recall. 
 The data can be found here: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/data
 
+(Covid-1 to Covid-500 used for Train; Normal-1 to Normal-1500 used for Train)
+(Covid-2941 to Covid-3440 used for Val; Normal-7869 to Normal-8868 used for Val)
 
 ## Expected Results
 
