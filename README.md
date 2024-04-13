@@ -1,6 +1,6 @@
 # Data Augmentation for Covid-19 Classification
 
-### Note: A comprehensive analysis can be found in the pdf file titled Data Augmentation for Covid. 
+### Note: A more comprehensive analysis can be found in the pdf file titled Data Augmentation for Covid. 
 
 Allen Chang
 
