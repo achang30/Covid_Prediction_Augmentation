@@ -1,5 +1,7 @@
 # Data Augmentation for Covid-19 Classification
 
+### Note: A comprehensive analysis can be found in the pdf file. 
+
 Allen Chang
 
 
